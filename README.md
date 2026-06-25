@@ -11,14 +11,15 @@
 
 [![WakaTime stats](https://github-readme-stats-brown-rho-80.vercel.app/api/wakatime?username=zaddikdev&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🎮 I'm a game developer
+### Game dev
 - **Self-taught**
-- **IDE**: VS Code
-- **Fav language**:  Rust
-- **Main technologies**: axum, PostgreSQL
-- **Currently learning**: Go, Backend development, Rust *(the rust grind never stops)*
+- **IDE**: VS Code (yes i dont use neovim i know im not cool)
+- **Fav language**: Rust
+- **Main technologies**: Redis, PostgreSQL
+- **Currently learning**: Distributed systems, Rust *(the rust grind never stops)*
+- yes i know i said game dev but havent listed as single game engine leave me alone
 
-### ❌ I don't like:
+### I don't like:
 - Bloated frameworks
 - Javascript (especially ran on server)
 - Windows 11
@@ -27,14 +28,14 @@
 - Electron (10th layer of hell)
 - Javascript
 
-### 💼 Work history
+### Work history
 - ***(in development)* Rinuko** [2025 - current]: Gacha Discord bot — Project lead and founder
 - ***(in development)* Anime Dungeons** [2025 - 2026]: Roblox game — Head Developer *(left team halfway through development)*
 
 
 **Check out my new webpage**: yeah the url is http://127.0.0.1:3000 you should check it out it's so cool!!!111!!!!!11!!!‼️1
 
-### 🖥️ System info (i know it's bad)
+### System info (i know it's bad)
 - **OS**: `Arch Linux x64`
 - **CPU**: Ryzen 5 3600X
 - **GPU**: Nvidia GTX 1050 TI
