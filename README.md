@@ -1,15 +1,12 @@
 > Profile picture by [**@2BOverTheWorld** on Twitter](https://x.com/2BOverTheWorld)!
 
-## Hi! 👋
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+## Hi!
+[![wakatime](https://wakatime.com/badge/user/1b98c973-f1a5-446b-b0bf-7951f6a414ab.svg)](https://wakatime.com/@1b98c973-f1a5-446b-b0bf-7951f6a414ab)
 
-[![GitHub stats](https://github-readme-stats-brown-rho-80.vercel.app/api?username=ZaddikDev&count=private&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-brown-rho-80.vercel.app/api/top-langs/?username=ZaddikDev&hide=smali&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-brown-rho-80.vercel.app/api?username=d4navi0&count=private&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-brown-rho-80.vercel.app/api/top-langs/?username=d4navi0&hide=smali&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![WakaTime stats](https://github-readme-stats-brown-rho-80.vercel.app/api/wakatime?username=zaddikdev&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats-brown-rho-80.vercel.app/api/wakatime?username=d4navi0&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Game dev
 - **Self-taught**
